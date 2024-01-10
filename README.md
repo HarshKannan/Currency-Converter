@@ -237,4 +237,5 @@ public class Currency extends javax.swing.JFrame {
 ## Screenshots
 
 ![image](https://github.com/HarshKannan/Currency-Converter/assets/156222645/d6470b6a-c465-46a1-a539-b6863eb09612)
+![image](https://github.com/HarshKannan/Currency-Converter/assets/156222645/d7438865-8663-4d22-bc1a-f947b97d1774)
 
